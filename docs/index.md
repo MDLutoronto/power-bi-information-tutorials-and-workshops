@@ -1,5 +1,5 @@
 ---
-title: Power BI: Information, Tutorials, and Workshops | Map and Data Library
+title: Power BI - Information, Tutorials, and Workshops | Map and Data Library
 layout: home
 description: 
 ---
