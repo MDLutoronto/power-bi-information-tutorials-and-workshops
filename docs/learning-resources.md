@@ -23,7 +23,7 @@ Learning resources
 
 ### Tutorials & Guides
 
-* [Data Visualization Guide](https://mdl.library.utoronto.ca/dataviz/getting-started)
+* [Data Visualization Guide](https://guides.library.utoronto.ca/datavisualization)
 * [Introduction to Power BI](https://mdlutoronto.github.io/power-bi-introduction)
 
 ### Online courses on Data Visualization
